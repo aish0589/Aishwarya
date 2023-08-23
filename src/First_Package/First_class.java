@@ -14,6 +14,7 @@ public class First_class {
 		driver.get("https://www.google.com//");
 		Thread.sleep(2000);
 		System.out.println("pgm pushed github");
+		System.out.println("pgm executed in eclipse");
 		driver.navigate().to("https://www.facebook.com//");
 		//Thread.sleep(2000);
 		driver.get("https://www.facebook.com//");
